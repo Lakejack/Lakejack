@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Lakejack/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Lakejack/azure-network-protocols)
+  - [Setting up and Use of a VPN in Azure](https://github.com/Lakejack/azure-vpn)
 
 <h2>🤳Connect with me:</h2>
 
