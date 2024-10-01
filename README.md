@@ -2,15 +2,17 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Active Directory<b/>
+  - [Active Directory: Preparing Infrastructure in Azure](https://gitub.com/Lakejack/pre-infrastructure)
+  - [Active Directory: Deploying Active Directory in Azure](https://github.com/Lakejack/deploy-acitve-directory)
+  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/Lakejack/creating-managing)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Lakejack/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Lakejack/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Lakejack/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Lakejack/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Lakejack/azure-network-protocols)
   - [Setting up and Use of a VPN in Azure](https://github.com/Lakejack/azure-vpn)
-
 <h2>🤳Connect with me:</h2>
 
 
