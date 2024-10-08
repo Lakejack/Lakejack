@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory<b/>
-  - [Active Directory: Preparing Infrastructure in Azure](https://gitub.com/Lakejack/preparing-infrastructure-Azure)
+  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/Lakejack/prep-infrasructure-in-azure)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/Lakejack/deploy-acitve-directory)
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/Lakejack/creating-managing)
 - <b>osTicket (Help Desk Ticketing System)</b>
