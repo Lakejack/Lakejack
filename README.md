@@ -4,7 +4,7 @@
 
 - <b>Active Directory<b/>
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/Lakejack/-pre-infrastructure)
-  - [Active Directory: Deploying Active Directory in Azure](https://github.com/Lakejack/deploy-acitve-directory)
+  - [Active Directory: Deploying Active Directory in Azure](https://github.com/Lakejack/deploy-active-directory)
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/Lakejack/creating-managing)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Lakejack/osticket-prereqs)
